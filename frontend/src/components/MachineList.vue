@@ -1,3 +1,5 @@
+
+// src/components/MachineList.vue
 <template>
   <div class="machine-list">
     <h3>Machine List</h3>
